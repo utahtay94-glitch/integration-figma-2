@@ -1,9 +1,5 @@
-Voici un README.md clair, structuré et adapté à ton projet.
-Tu peux le copier-coller directement dans ton dépôt GitHub.
 
-⸻
-
-🧾 README – Prototype Etran
+# 🧾 README – Prototype Etran
 
 📌 Présentation
 
